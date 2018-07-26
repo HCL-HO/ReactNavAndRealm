@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.crashlytics.sdk.android:answers-shim-0.0.6">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/afd49b59c1031232193d3335f358308059545162/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/afd49b59c1031232193d3335f358308059545162/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

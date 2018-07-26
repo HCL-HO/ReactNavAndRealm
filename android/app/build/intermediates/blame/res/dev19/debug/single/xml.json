@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/ericho/Desktop/workspace/BaseReactNavigation/android/app/build/intermediates/res/merged/dev19/debug/xml/stub_classic.xml",
+        "source": "/Users/ericho/.android/build-cache/d7cb1aa2ce4f21f72e12bc86c60ea95fd9b90bbe/output/res/xml/stub_classic.xml"
+    },
+    {
+        "merged": "/Users/ericho/Desktop/workspace/BaseReactNavigation/android/app/build/intermediates/res/merged/dev19/debug/xml/global_tracker.xml",
+        "source": "/Users/ericho/Desktop/workspace/BaseReactNavigation/android/app/build/generated/res/google-services/dev19/debug/xml/global_tracker.xml"
+    },
+    {
+        "merged": "/Users/ericho/Desktop/workspace/BaseReactNavigation/android/app/build/intermediates/res/merged/dev19/debug/xml/provider_paths.xml",
+        "source": "/Users/ericho/.android/build-cache/d7cb1aa2ce4f21f72e12bc86c60ea95fd9b90bbe/output/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/Users/ericho/Desktop/workspace/BaseReactNavigation/android/app/build/intermediates/res/merged/dev19/debug/xml/stub_material.xml",
+        "source": "/Users/ericho/.android/build-cache/d7cb1aa2ce4f21f72e12bc86c60ea95fd9b90bbe/output/res/xml/stub_material.xml"
+    },
+    {
+        "merged": "/Users/ericho/Desktop/workspace/BaseReactNavigation/android/app/build/intermediates/res/merged/dev19/debug/xml/preferences.xml",
+        "source": "/Users/ericho/.android/build-cache/1989d4069b8b7502619a6af05b920cee03e07589/output/res/xml/preferences.xml"
+    }
+]

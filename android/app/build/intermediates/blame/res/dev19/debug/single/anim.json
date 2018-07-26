@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/Users/ericho/Desktop/workspace/BaseReactNavigation/android/app/build/intermediates/res/merged/dev19/debug/anim/tooltip_exit.xml",
+        "source": "/Users/ericho/.android/build-cache/419e8d02285cb4d0b0f2a24b44afd026f062590f/output/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/ericho/Desktop/workspace/BaseReactNavigation/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/ericho/.android/build-cache/419e8d02285cb4d0b0f2a24b44afd026f062590f/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/ericho/Desktop/workspace/BaseReactNavigation/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/ericho/.android/build-cache/419e8d02285cb4d0b0f2a24b44afd026f062590f/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/ericho/Desktop/workspace/BaseReactNavigation/android/app/build/intermediates/res/merged/dev19/debug/anim/tooltip_enter.xml",
+        "source": "/Users/ericho/.android/build-cache/419e8d02285cb4d0b0f2a24b44afd026f062590f/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/ericho/Desktop/workspace/BaseReactNavigation/android/app/build/intermediates/res/merged/dev19/debug/anim/fade_in.xml",
+        "source": "/Users/ericho/.android/build-cache/6f9e33c8cf36ff62d4738dc11543676c96a8f289/output/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/ericho/Desktop/workspace/BaseReactNavigation/android/app/build/intermediates/res/merged/dev19/debug/anim/catalyst_slide_down.xml",
+        "source": "/Users/ericho/.android/build-cache/1989d4069b8b7502619a6af05b920cee03e07589/output/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/ericho/Desktop/workspace/BaseReactNavigation/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/ericho/.android/build-cache/419e8d02285cb4d0b0f2a24b44afd026f062590f/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/ericho/Desktop/workspace/BaseReactNavigation/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/ericho/.android/build-cache/419e8d02285cb4d0b0f2a24b44afd026f062590f/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/ericho/Desktop/workspace/BaseReactNavigation/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_fade_in.xml",
+        "source": "/Users/ericho/.android/build-cache/419e8d02285cb4d0b0f2a24b44afd026f062590f/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/ericho/Desktop/workspace/BaseReactNavigation/android/app/build/intermediates/res/merged/dev19/debug/anim/slide_down.xml",
+        "source": "/Users/ericho/.android/build-cache/6f9e33c8cf36ff62d4738dc11543676c96a8f289/output/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/ericho/Desktop/workspace/BaseReactNavigation/android/app/build/intermediates/res/merged/dev19/debug/anim/fade_out.xml",
+        "source": "/Users/ericho/.android/build-cache/6f9e33c8cf36ff62d4738dc11543676c96a8f289/output/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/ericho/Desktop/workspace/BaseReactNavigation/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/ericho/.android/build-cache/419e8d02285cb4d0b0f2a24b44afd026f062590f/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/ericho/Desktop/workspace/BaseReactNavigation/android/app/build/intermediates/res/merged/dev19/debug/anim/catalyst_fade_out.xml",
+        "source": "/Users/ericho/.android/build-cache/1989d4069b8b7502619a6af05b920cee03e07589/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/ericho/Desktop/workspace/BaseReactNavigation/android/app/build/intermediates/res/merged/dev19/debug/anim/catalyst_fade_in.xml",
+        "source": "/Users/ericho/.android/build-cache/1989d4069b8b7502619a6af05b920cee03e07589/output/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/ericho/Desktop/workspace/BaseReactNavigation/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/ericho/.android/build-cache/419e8d02285cb4d0b0f2a24b44afd026f062590f/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/ericho/Desktop/workspace/BaseReactNavigation/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_fade_out.xml",
+        "source": "/Users/ericho/.android/build-cache/419e8d02285cb4d0b0f2a24b44afd026f062590f/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/ericho/Desktop/workspace/BaseReactNavigation/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/ericho/.android/build-cache/419e8d02285cb4d0b0f2a24b44afd026f062590f/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/ericho/Desktop/workspace/BaseReactNavigation/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/ericho/.android/build-cache/419e8d02285cb4d0b0f2a24b44afd026f062590f/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/ericho/Desktop/workspace/BaseReactNavigation/android/app/build/intermediates/res/merged/dev19/debug/anim/catalyst_slide_up.xml",
+        "source": "/Users/ericho/.android/build-cache/1989d4069b8b7502619a6af05b920cee03e07589/output/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/ericho/Desktop/workspace/BaseReactNavigation/android/app/build/intermediates/res/merged/dev19/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/ericho/.android/build-cache/1989d4069b8b7502619a6af05b920cee03e07589/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/ericho/Desktop/workspace/BaseReactNavigation/android/app/build/intermediates/res/merged/dev19/debug/anim/shake.xml",
+        "source": "/Users/ericho/.android/build-cache/53089342f39f0db7a8d69a64942223fecc1d5ab1/output/res/anim/shake.xml"
+    },
+    {
+        "merged": "/Users/ericho/Desktop/workspace/BaseReactNavigation/android/app/build/intermediates/res/merged/dev19/debug/anim/cycle.xml",
+        "source": "/Users/ericho/.android/build-cache/53089342f39f0db7a8d69a64942223fecc1d5ab1/output/res/anim/cycle.xml"
+    },
+    {
+        "merged": "/Users/ericho/Desktop/workspace/BaseReactNavigation/android/app/build/intermediates/res/merged/dev19/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/ericho/.android/build-cache/1989d4069b8b7502619a6af05b920cee03e07589/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/ericho/Desktop/workspace/BaseReactNavigation/android/app/build/intermediates/res/merged/dev19/debug/anim/slide_up.xml",
+        "source": "/Users/ericho/.android/build-cache/6f9e33c8cf36ff62d4738dc11543676c96a8f289/output/res/anim/slide_up.xml"
+    }
+]

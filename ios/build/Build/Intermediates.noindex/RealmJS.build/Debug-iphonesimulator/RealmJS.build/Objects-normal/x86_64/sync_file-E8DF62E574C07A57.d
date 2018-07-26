@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/ericho/Desktop/workspace/BaseReactNavigation/node_modules/realm/src/object-store/src/sync/impl/sync_file.cpp \
+  /Users/ericho/Desktop/workspace/BaseReactNavigation/node_modules/realm/src/object-store/src/sync/impl/sync_file.hpp \
+  /Users/ericho/Desktop/workspace/BaseReactNavigation/node_modules/realm/src/object-store/src/sync/sync_user.hpp \
+  /Users/ericho/Desktop/workspace/BaseReactNavigation/node_modules/realm/src/object-store/src/util/atomic_shared_ptr.hpp \
+  /Users/ericho/Desktop/workspace/BaseReactNavigation/node_modules/realm/src/../vendor/realm-ios/include/realm/util/optional.hpp \
+  /Users/ericho/Desktop/workspace/BaseReactNavigation/node_modules/realm/src/../vendor/realm-ios/include/realm/util/features.h \
+  /Users/ericho/Desktop/workspace/BaseReactNavigation/node_modules/realm/src/../vendor/realm-ios/include/realm/util/config.h \
+  /Users/ericho/Desktop/workspace/BaseReactNavigation/node_modules/realm/src/object-store/src/util/time.hpp \
+  /Users/ericho/Desktop/workspace/BaseReactNavigation/node_modules/realm/src/../vendor/realm-ios/include/realm/util/file.hpp \
+  /Users/ericho/Desktop/workspace/BaseReactNavigation/node_modules/realm/src/../vendor/realm-ios/include/realm/utilities.hpp \
+  /Users/ericho/Desktop/workspace/BaseReactNavigation/node_modules/realm/src/../vendor/realm-ios/include/realm/util/assert.hpp \
+  /Users/ericho/Desktop/workspace/BaseReactNavigation/node_modules/realm/src/../vendor/realm-ios/include/realm/util/terminate.hpp \
+  /Users/ericho/Desktop/workspace/BaseReactNavigation/node_modules/realm/src/../vendor/realm-ios/include/realm/util/to_string.hpp \
+  /Users/ericho/Desktop/workspace/BaseReactNavigation/node_modules/realm/src/../vendor/realm-ios/include/realm/version.hpp \
+  /Users/ericho/Desktop/workspace/BaseReactNavigation/node_modules/realm/src/../vendor/realm-ios/include/realm/util/safe_int_ops.hpp \
+  /Users/ericho/Desktop/workspace/BaseReactNavigation/node_modules/realm/src/../vendor/realm-ios/include/realm/util/type_traits.hpp \
+  /Users/ericho/Desktop/workspace/BaseReactNavigation/node_modules/realm/src/../vendor/realm-ios/include/realm/util/type_list.hpp \
+  /Users/ericho/Desktop/workspace/BaseReactNavigation/node_modules/realm/src/../vendor/realm-ios/include/realm/util/scope_exit.hpp

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ericho/.android/build-cache/7afec9fa79b5aebbd9fe3d5e8f70dd4d6cd3fa88/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="20be4fc45af5a418fbbfb8d1040020b64b187885">
+        <dex dex="/Users/ericho/Desktop/EH/BaseReactNavigation/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_3d3299d4dbb771f0011fa71ef1742340a56fa070/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ericho/.android/build-cache/36af3385e96c24e8a00ad2fac2e93353d51fa1f8/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7a30a80d40b875fec941cafdceaf514b74ca6d76">
+        <dex dex="/Users/ericho/Desktop/EH/BaseReactNavigation/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/infer-annotations-4.0_9cd9346fe1cdeba2b4b9aa296ce3656e1a453716/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ericho/.android/build-cache/a7e7abe4e68c6be3a5213edd66d28740411a614b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cac4539de2fbfcb1c4c44c55166f0332b92d34b7">
+        <dex dex="/Users/ericho/Desktop/EH/BaseReactNavigation/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_29ccdfc4eda5bc997d0df63949dc8f7424d79bf1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ericho/.android/build-cache/ce6acbcbded9b05bd6aacb5d145ac9ede53d6cf5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="418dca1ee8bac0cc2f78f8f34b594c4d89eec057">
+        <dex dex="/Users/ericho/Desktop/EH/BaseReactNavigation/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_7cc5e59fb0871bd3d5bd68e867c6f2efa072eb37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ericho/Desktop/EH/BaseReactNavigation/android/maven/expolib_v1/com/squareup/okhttp3/okhttp-urlconnection/3.6.0/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ae77d4921dcf287b3776baabfbca09b55616ab13">
+        <dex dex="/Users/ericho/Desktop/EH/BaseReactNavigation/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/okhttp-urlconnection-3.6.0_f13ea247411b330e38c33e61e20bee9e4f6e855c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ericho/Desktop/EH/BaseReactNavigation/android/maven/expolib_v1/com/squareup/okio/okio/1.13.0/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="89890cffce351fec7caf3fdfd4351c7f4b4769b4">
+        <dex dex="/Users/ericho/Desktop/EH/BaseReactNavigation/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/okio-1.13.0_f087a21586d28c583fa1b57450bcce08c2deda16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ericho/.android/build-cache/ce6acbcbded9b05bd6aacb5d145ac9ede53d6cf5/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="82231c00c16c59ee23a508bec9fc6bc3e60c96b2">
+        <dex dex="/Users/ericho/Desktop/EH/BaseReactNavigation/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/infer-annotations-4.0_e00a76cf3186239cd39d9ccb6b5eff3ab096e483/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ericho/.gradle/caches/modules-2/files-2.1/org.nanohttpd/nanohttpd/2.2.0/73a02117620b6cc7683a1ed6ae24c2f36e2a715/nanohttpd-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="073a02117620b6cc7683a1ed6ae24c2f36e2a715">
+        <dex dex="/Users/ericho/Desktop/EH/BaseReactNavigation/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/nanohttpd-2.2.0_9f63e894bb427bb54c10c16ad02b2d61bea3047f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ericho/.android/build-cache/38edc40b5ab7b18f9624334482b3eb0d88c3aa59/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e6172a6e0872c156ae82fe8b51d82b2daed424aa">
+        <dex dex="/Users/ericho/Desktop/EH/BaseReactNavigation/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_959fca5496efb8242b19813ac6d693031b346654/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ericho/.android/build-cache/28c5301c9c1a6206c434c902a3c5981d1e22eb9e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="68d8ffe33fc5c2feb623b2e216dfc180e7540cd5">
+        <dex dex="/Users/ericho/Desktop/EH/BaseReactNavigation/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_bf0a9d53d300b052d3b3326b97518b9333e1b9ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ericho/.android/build-cache/a7e7abe4e68c6be3a5213edd66d28740411a614b/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6eb79bde4cf6bbb7573bcf7dfbaf8a313f57612e">
+        <dex dex="/Users/ericho/Desktop/EH/BaseReactNavigation/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/infer-annotations-4.0_ba8d1ca0377488c6b7c16b7d01b7809bd2c8f551/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ericho/.android/build-cache/8451873bdce5a62dd94113e70bcac34b12d8b752/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47803d3db7213b155bf0a1876ba920d29000abaa">
+        <dex dex="/Users/ericho/Desktop/EH/BaseReactNavigation/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_44e3f52fa2be0dd6dab397a7c07165c9cbd26114/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ericho/.android/build-cache/7afec9fa79b5aebbd9fe3d5e8f70dd4d6cd3fa88/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/ericho/Desktop/EH/BaseReactNavigation/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/infer-annotations-4.0_c440bf4d50b48d80de83bb07383b078ab8bf3f6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ericho/Desktop/EH/BaseReactNavigation/node_modules/realm/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e30c9509de70a53f6f3ed6d239d046aaa619d980">
+        <dex dex="/Users/ericho/Desktop/EH/BaseReactNavigation/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/4/classes_83e96168ebd5df20c62f491c42600a5efaed0f82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ericho/.android/build-cache/1952db8b324987b46fc2da07a3e76f2a5964ff68/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ea01f90e60978bc6871543cd76136a97a19450b5">
+        <dex dex="/Users/ericho/Desktop/EH/BaseReactNavigation/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/infer-annotations-4.0_96a4c2d7a6fad284b9a7679a1246e475a5693c15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ericho/.android/build-cache/af980251c512be1673a4df79959c65848a5e0d1e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="765f07d2233e2e7f1f77fbae57361781a5a9c406">
+        <dex dex="/Users/ericho/Desktop/EH/BaseReactNavigation/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_7d280154b40d739ec438f6120919a43255020dea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ericho/Desktop/EH/BaseReactNavigation/android/maven/expolib_v1/com/squareup/okhttp3/okhttp/3.6.0/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="565de69ddf97fffe074cba6cb0512520cdce4394">
+        <dex dex="/Users/ericho/Desktop/EH/BaseReactNavigation/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/okhttp-3.6.0_94a7c597a620c75c109ac5f9294d50fb3c8efb82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ericho/.android/build-cache/28c5301c9c1a6206c434c902a3c5981d1e22eb9e/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f9558f8bf566536221101e576b5c398787cfcbc3">
+        <dex dex="/Users/ericho/Desktop/EH/BaseReactNavigation/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/infer-annotations-4.0_65a0c99b835b0d19911e629a15e915498f1ce085/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ericho/.android/build-cache/d02b3b3ceaaf38448f985767494c89f271ba2f5f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a34a28ae586a32e1a33eeb63378732b473cad2be">
+        <dex dex="/Users/ericho/Desktop/EH/BaseReactNavigation/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_3d9ee7de8ab4deee32b28615c76e554649699c35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ericho/.android/build-cache/38edc40b5ab7b18f9624334482b3eb0d88c3aa59/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="83d6e98f2b48f3cf1ec0e7c2b3bf2b3d4618f680">
+        <dex dex="/Users/ericho/Desktop/EH/BaseReactNavigation/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/infer-annotations-4.0_482f5322169afb7cde2046df5d19cad2043cf04d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ericho/.android/build-cache/008d580d19270ee993d3e2a5f3f2c763811922a1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ffbd3e8e40ef62a454f4c3990aa70bbda3ffa596">
+        <dex dex="/Users/ericho/Desktop/EH/BaseReactNavigation/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_e371035f69fe6658dd0efc85ea4fe75207ea374d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ericho/.android/build-cache/8451873bdce5a62dd94113e70bcac34b12d8b752/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="edaed5c051302ba960315d8e3161935f3df40f65">
+        <dex dex="/Users/ericho/Desktop/EH/BaseReactNavigation/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/infer-annotations-4.0_93de13c2c9cd41a28ab17a2db3373baa90a804cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ericho/.android/build-cache/1952db8b324987b46fc2da07a3e76f2a5964ff68/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2f1cc63c85dfeb86263311713a0810d23112495e">
+        <dex dex="/Users/ericho/Desktop/EH/BaseReactNavigation/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_423dc5c67662f389feae059892f8cbfacb90fcd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ericho/.android/build-cache/36af3385e96c24e8a00ad2fac2e93353d51fa1f8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a774607cf90ca991586347daa59ed0de0ad9cb49">
+        <dex dex="/Users/ericho/Desktop/EH/BaseReactNavigation/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_f010ec269aac3ed5b6a8c081423d5b98d9268e2e/classes.dex" />
+    </item>
+
+</items>
