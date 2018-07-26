@@ -25,7 +25,6 @@ export default class Hello extends Component {
             ? 'Number of dogs in this Realm: ' +
             this.state.realm.objects('Dog').length
             : 'Loading...';
-
         return (
             <View style={styles.container}>
                 <Text style={styles.welcome}>
@@ -39,9 +38,10 @@ export default class Hello extends Component {
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: '#fff',
         alignItems: 'center',
         justifyContent: 'center',
     },
-    welcome: {},
+    welcome: {
+        fontSize: 25,
+    },
 });
